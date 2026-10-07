@@ -1,0 +1,6 @@
+{
+  "name": "Income & Expense Tracker (ระบบบันทึกรายรับรายจ่าย)",
+  "description": "ระบบจัดการและบันทึกรายรับ-รายจ่าย สรุปผลรายเดือน พร้อมกราฟวิเคราะห์ข้อมูลการเงิน จัดเก็บข้อมูลบน Firebase อย่างปลอดภัย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
